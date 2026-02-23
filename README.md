@@ -190,5 +190,3 @@ medi-hub/
 -  IntelliJ IDEA + Markdown插件
 
 [>>系统架构文档](docs/SYSTEM_ARCHITECTURE.md)
-
-源码QQ:1150884107
